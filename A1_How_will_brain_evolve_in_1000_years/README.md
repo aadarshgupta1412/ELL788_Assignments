@@ -1,4 +1,6 @@
-# Hypothesis
+# HOW WILL BRAIN LOOK IN 1000 YEARS?
+
+## Hypothesis
 The purpose of the research article is to envisage the pattern of evolution of the human brain in the forthcoming 1000 years. The changes observed in the evolution till date were integrated with current work in the area and futuristic technological ideas to give an idea of 
 the same, while keeping in mind the physical and biological constraints. Evolutionary factors suggest small theoretical growth of brain size for better efficiency, although recent studies conclude 
 dietary, environmental, and social factors might lead to shrinkage of brain and its capabilities as we witnessed in the last few millennia. Environmental impact will play a crucial role in the development of 
