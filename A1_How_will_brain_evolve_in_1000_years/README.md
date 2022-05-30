@@ -8,4 +8,4 @@ to be a key domain in shaping up the future of H. Sapiens and the proportion of 
 for a small section of fraternity only and decline in mental abilities and brain shrinkage would imply that a major part of society would survive on the back of the technology-assisted faction.
 
 ## Index Terms: 
-Neocortical wiring, Genetic Engineering, BrainMachine Interface, Homo cyberneticus
+Neocortical wiring, Genetic Engineering, Brain-Machine Interface, Homo cyberneticus
