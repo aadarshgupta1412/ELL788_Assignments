@@ -1,3 +1,4 @@
+# Sweep VEP Experiment
 Language used: Python
 Required Libraries: Matplotlib, NumPy
 
